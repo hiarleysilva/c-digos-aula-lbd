@@ -14,6 +14,10 @@
 --      Como melhorar esse script usando comandos TCL?
 --      Obs.: Essa questão é discursiva, não envie códigos nela.
 
+-- RESPOSTA HIARLEY: EU achei que ela funciona bem, mas consegui ver alguns problemas, minha máquina é muito boa e ainda sim
+-- houve uma certa dificuldade para rodar o código, acho que pelo fato de ter muitos insert dentro do banco.
+
+-- Acho que uma boa forma de melhorar isso, seria juntar todos esses insert, diminuindo a quantidade quando agruparmos, assim ficaria mais rápido e mais fácil de rodar o código.
 
 
 -- 2) É mais comum buscar pessoas por documentos, crie um índice para CPF na tabela de Pessoa. (código de criação do índice)
